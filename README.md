@@ -1,2 +1,3 @@
-# FMINST_Clasification_using_Pytorch
-Fashion cloth classification from Fashion MNIST dataset using Convolutional Neural Networks
+# FMINST_Clasification_using_Pytorch(100% Test Accuracy)
+Fashion cloth classification from Fashion MNIST dataset using Convolutional Neural Networks. 
+The CNN model has 100% Accuracy on test data
